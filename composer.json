@@ -2,7 +2,7 @@
     "name": "predictmobile/uk-company-faker",
     "description": "Generate fake uk company data",
     "homepage": "https://github.com/PredictMobile/UkCompanyFaker",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "UKCompanyFaker\\": "src/"
+            "PredictMobile\\UKCompanyFaker\\": "src/"
         }
     }
 }

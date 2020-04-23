@@ -1,6 +1,6 @@
 <?php
 
-namespace UKCompanyFaker;
+namespace PredictMobile\UKCompanyFaker;
 
 /**
  * Provider for the Faker generator.
